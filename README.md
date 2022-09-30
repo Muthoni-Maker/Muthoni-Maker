@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muthoni-Maker
 - 👀 I’m interested in software development and animation.
-- 🌱 I’m currently learning front-end development.
+- 🌱 I’m currently learning JavaScript,React Native and NodeJs.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me Email:esther.kamau@womentechsters.org
 
